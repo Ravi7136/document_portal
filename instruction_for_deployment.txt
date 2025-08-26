@@ -27,5 +27,5 @@ then click on the ENI id there check with your public IPV4 Address
 for executing the application this should be running on your browswer
 http:/<your_public_ip>:8080
 
-10 how to watch the logs..
+10 how to watch the logs.
 search for cloud watch->click on log groups --> check with your running task id --> then open the log for the same task id

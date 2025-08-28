@@ -19,7 +19,7 @@
           "name": "document-portal-container-8080-tcp",
           "appProtocol": "http"
         }
-      ],
+      ],G
       "environment": [
         {
           "name": "ENV",

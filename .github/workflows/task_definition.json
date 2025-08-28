@@ -29,7 +29,7 @@
       "secrets": [
         {
           "name": "apikeyliveclass",
-          "valueFrom": "arn:aws:secretsmanager:ap-southeast-2:459497895986:secret:api_keys-nZTtj8"
+          "valueFrom": "arn:aws:secretsmanager:eu-north-1:865414894512:secret:apikeyliveclass-vziuul"
         }
         
       ],

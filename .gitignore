@@ -10,6 +10,7 @@ env/
 *.egg-info/
 *.egg
 *.log
+.venv
 
 # OS & editor files
 .DS_Store
